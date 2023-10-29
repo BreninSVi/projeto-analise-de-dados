@@ -1,6 +1,7 @@
 import pandas as pd
 from sqlalchemy import create_engine
 
+
 # Caminho para o arquivo CSV.
 file_path = 'tabela/hoteis_munnar - tabela.csv'
 
